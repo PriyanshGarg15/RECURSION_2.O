@@ -1,4 +1,4 @@
-public class A21_word_search {
+public class A26_word_search {
     static boolean f=false;
     public static void main(String[] args) {
         char[][] maze = { { 'A', 'B', 'C', 'E' }, { 'S', 'F', 'C', 'S' }, { 'A', 'D', 'E', 'E' } };

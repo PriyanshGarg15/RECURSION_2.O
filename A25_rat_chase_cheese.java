@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class A20_rat_chase_cheese{
+public class A25_rat_chase_cheese{
     static boolean f=false;
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

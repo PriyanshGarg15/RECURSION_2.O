@@ -1,4 +1,4 @@
-public class A23_n_queen {
+public class A28_n_queen {
     public static void main(String[] args) {
         int n=4;
         boolean[][] board=new boolean[n][n];

@@ -1,5 +1,5 @@
 //move all disk from a to b with conditions to be maintained !!
-public class A22_tower_of_hanoi{
+public class A27_tower_of_hanoi{
 	public static void main(String[] args) {
 		int n=3;
 		String src="A";

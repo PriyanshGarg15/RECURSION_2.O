@@ -1,5 +1,4 @@
 public class A16_queen_permutation {
-
 	public static void main(String[] args) {
 		boolean[] board = new boolean[4];
 		int no_oqueen = 2;
@@ -18,7 +17,8 @@ public class A16_queen_permutation {
 				board[i] = true;// queen place
 				
 				Queen(board, tq, qpsf +1, ans+"b"+i+"q"+qpsf+" ");
-				board[i]=false;// un do 
+
+				board[i]=false;// undo 
 			}
 
 		}
