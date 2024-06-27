@@ -1,0 +1,11 @@
+Types of recursion:-
+
+head
+tail
+linerar recursion i.e f(n)-->f(n-1)--->f(n-2) so on....
+tree recursion 
+i.e recursion ko tress format meh represent karna
+                      f(n)
+            f(n-1)            f(n-2)
+        f(n-2)   f(n-3)   f(n-3)    f(n-4)
+        so on.................i.e nodes >1 i.e ek seh jada recursion call ho rahe ho !!
